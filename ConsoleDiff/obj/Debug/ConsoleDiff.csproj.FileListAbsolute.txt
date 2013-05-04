@@ -1,0 +1,5 @@
+D:\School\Sem4\WA2\ConsoleDiff\ConsoleDiff\obj\Debug\ConsoleDiff.csprojResolveAssemblyReference.cache
+d:\School\Sem4\WA2\ConsoleDiff\ConsoleDiff\bin\Debug\ConsoleDiff.exe
+d:\School\Sem4\WA2\ConsoleDiff\ConsoleDiff\bin\Debug\ConsoleDiff.pdb
+d:\School\Sem4\WA2\ConsoleDiff\ConsoleDiff\obj\Debug\ConsoleDiff.exe
+d:\School\Sem4\WA2\ConsoleDiff\ConsoleDiff\obj\Debug\ConsoleDiff.pdb
